@@ -1,0 +1,1 @@
+- https://scrapbox.io/mrsekut-p/『つくって、壊して、直して学ぶ_Kubernetes入門』
